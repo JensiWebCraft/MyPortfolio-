@@ -23,7 +23,7 @@ const Hero = () => {
             Connect with Me
           </Link>
           <a
-            href="/C:/Users/jensi/Downloads/Jensi Kachhdiya Resume.pdf"
+            href="/C:/Users/jensi/Downloads/Final Resume Jensi.pdf"
             download
             className="btn-outline"
           >

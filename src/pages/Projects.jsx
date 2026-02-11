@@ -85,7 +85,7 @@ const Projects = () => {
             <p>{project.desc}</p>
             <div className="project-buttons">
               <a href={project.github} target="_blank" rel="noreferrer">
-                <button className="github-btn">GitHub ↗</button>
+                <button className="github-btn">Live ↗</button>
               </a>
             </div>
           </div>

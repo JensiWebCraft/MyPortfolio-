@@ -15,17 +15,16 @@ const About = () => {
 
         <div className="about-content">
           <p>
-            I'm a Computer Engineering student passionate about Web and App
-            Development. I have completed an internship at
-            <strong> Hackveda Limited</strong> where I gained hands-on
-            experience with HTML, CSS, React JS, Node JS, MongoDB and Flutter. I
-            love building modern UIs and scalable web apps.
+            I’m a Computer Engineering student and Full-Stack Web Developer
+            specializing in the MERN Stack. I have hands-on experience building
+            responsive and scalable web applications using React.js, Node.js,
+            Express.js, MongoDB, Next.js, and NestJS through internships and
+            real-world projects like real-time chat, recipe sharing, notes
+            management, and AI-based smart kitchen systems.
           </p>
           <p>
-            I’ve worked on multiple projects including a{" "}
-            <strong>Mobile App</strong>,{" "}
-            <strong>Recipe Sharing Platform</strong>, and a
-            <strong> Smart Kitchen</strong> using Flutter and Firebase.
+            I enjoy solving problems, creating clean user interfaces, and
+            developing practical solutions that improve user experience.
           </p>
 
           <div className="skills">
@@ -34,11 +33,11 @@ const About = () => {
               <div className="bar html"></div>
             </div>
             <div className="skill">
-              <span>MERN STACK</span>
+              <span>JavaScript</span>
               <div className="bar react"></div>
             </div>
             <div className="skill">
-              <span>JavaScript</span>
+              <span>MERN STACK</span>
               <div className="bar js"></div>
             </div>
             <div className="skill">
